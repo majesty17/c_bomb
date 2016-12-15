@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1301932615 source:f:\winpro\gui_test\main.cpp
+	<windows.h>
+	"common.h"
+	<iostream>
+
+1302010716 f:\winpro\gui_test\res.h
+	<windows.h>
+
+1301846004 f:\winpro\gui_test\common.h
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1301846000 source:f:\winpro\gui_test\common.cpp
+	"common.h"
+
+1302010464 source:e:\ict\cpro\gui_test\main.cpp
+	<windows.h>
+	"common.h"
+	"res.h"
+	<iostream>
+
+1301846004 e:\ict\cpro\gui_test\common.h
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1301846000 source:e:\ict\cpro\gui_test\common.cpp
+	"common.h"
+
+1302010715 e:\ict\cpro\gui_test\res.h
+	<windows.h>
+
+1302010715 source:e:\ict\cpro\gui_test\res.rc
+	"res.h"
+
+1302010716 source:f:\winpro\gui_test\res.rc
+	"res.h"
+
+1302010716 source:h:\gui_test\res.rc
+	"res.h"
+
+1302010716 h:\gui_test\res.h
+	<windows.h>
+
+1302071416 source:h:\gui_test\common.cpp
+	"common.h"
+
+1302106090 h:\gui_test\common.h
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1302144548 source:h:\gui_test\main.cpp
+	<windows.h>
+	"common.h"
+	"res.h"
+	<iostream>
+
+1302010716 source:j:\gui_test\res.rc
+	"res.h"
+
+1302010716 j:\gui_test\res.h
+	<windows.h>
+
+1302106244 source:j:\gui_test\common.cpp
+	"common.h"
+
+1302106090 j:\gui_test\common.h
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1302104222 source:j:\gui_test\main.cpp
+	<windows.h>
+	"common.h"
+	"res.h"
+	<iostream>
+
+1302144548 source:h:\my bomb\main.cpp
+	<windows.h>
+	"common.h"
+	"res.h"
+	<iostream>
+
+1302106090 h:\my bomb\common.h
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1302010716 h:\my bomb\res.h
+	<windows.h>
+
+1302010716 source:h:\my bomb\res.rc
+	"res.h"
+
+1302145770 source:h:\my bomb\common.cpp
+	"common.h"
+

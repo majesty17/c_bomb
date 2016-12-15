@@ -1,0 +1,33 @@
+#include "res.h"
+
+//DLG_MAIN DIALOGEX 6, 5, 194, 106
+//
+//CAPTION "Code::Blocks Template Dialog App"
+//
+//FONT 8, "Tahoma"
+//
+//STYLE 0x10CE0804
+//
+//BEGIN
+//  CONTROL "&Test", IDC_BTN_TEST, "Button", 0x10010000, 138,  5, 46, 15
+//  CONTROL "&Quit", IDC_BTN_QUIT, "Button", 0x10010000, 138, 29, 46, 15
+//END
+
+Menu001 MENU DISCARDABLE
+BEGIN
+	POPUP "&File"
+	BEGIN
+		MENUITEM "New",						IDM_START
+		MENUITEM SEPARATOR
+		MENUITEM "1st",						IDM_1ST
+		MENUITEM "2nd",						IDM_2ND
+		MENUITEM "3rd",						IDM_3RD
+		MENUITEM "Custom...",				IDM_CUSTOM
+		MENUITEM SEPARATOR
+		MENUITEM "Exit",					IDM_EXIT
+	END
+	POPUP "&Help"
+	BEGIN
+		MENUITEM "&About ...",				IDM_ABOUT
+	END
+END

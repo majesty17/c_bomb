@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1302144548 source:h:\bomb\traditional bomb\main.cpp
+	<windows.h>
+	"common.h"
+	"res.h"
+	<iostream>
+
+1302106090 h:\bomb\traditional bomb\common.h
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1302010716 h:\bomb\traditional bomb\res.h
+	<windows.h>
+
+1302010716 source:h:\bomb\traditional bomb\res.rc
+	"res.h"
+
